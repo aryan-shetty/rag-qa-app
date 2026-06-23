@@ -41,7 +41,9 @@ pip install anthropic fastapi uvicorn pymupdf faiss-cpu sentence-transformers st
 
 ### 4. Set up environment variables
 Create a `.env` file in the root directory:
+```
 ANTHROPIC_API_KEY=your_api_key_here
+```
 
 ### 5. Run the app
 
@@ -61,6 +63,7 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ## 📁 Project Structure
 
+```
 rag-qa-app/
 ├── backend/
 │   ├── main.py        # FastAPI server
@@ -71,6 +74,7 @@ rag-qa-app/
 ├── .env               # API keys
 ├── .gitignore
 └── README.md
+```
 
 ## 🔍 How It Works
 
