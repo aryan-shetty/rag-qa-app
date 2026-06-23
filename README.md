@@ -36,7 +36,7 @@ source venv/bin/activate  # Mac/Linux
 
 ### 3. Install dependencies
 ```bash
-pip install anthropic fastapi uvicorn pymupdf faiss-cpu sentence-transformers streamlit python-dotenv
+pip install -r backend/requirements.txt
 ```
 
 ### 4. Set up environment variables
