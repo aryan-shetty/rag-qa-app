@@ -23,7 +23,7 @@ An AI-powered document Q&A application that lets you upload PDFs and ask questio
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/rag-qa-app.git
+git clone https://github.com/aryan-shetty/rag-qa-app.git
 cd rag-qa-app
 ```
 
